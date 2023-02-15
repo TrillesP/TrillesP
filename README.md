@@ -11,4 +11,4 @@
 - Also interested in working with developments in Python and tests with Selenium and Cucumber.
 ### 📫 How to reach me:
 - E-mail: pedro.trillesm@gmail.com
-- LinkedIn: <a href="[url](https://www.linkedin.com/in/pedro-trilles-45a828a4/)">My Profile</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/pedro-trilles-45a828a4/">My Profile</a>
