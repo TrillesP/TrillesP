@@ -7,8 +7,8 @@
 </div>
 
 ### 🌱 I'm learning full stack development and automation in multiple languages.
-- Currently focusing on front-end Javascript/Typescript with React and tests on Cypress.
-- Also interested in working with developments in Python and Java and tests with Selenium and Cucumber.
+- Currently focusing on back-end in `Node.js` and `Typescript` with express and sequelize.
+- Also interested in working with developments in Python and Java and as a QA analyst with Cypress and Selenium.
 ### 📫 How to reach me:
 - E-mail: pedro.trillesm@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/pedro-trilles-45a828a4/">My Profile</a>
